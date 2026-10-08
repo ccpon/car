@@ -42,5 +42,9 @@
     "ORION-LG4G-MPYC": {
         "duration": "30s",
         "memo": "なし"
+    },
+    "ORION-N4KA-B0JF": {
+        "duration": "1w",
+        "memo": "なし"
     }
 }
