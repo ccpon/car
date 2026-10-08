@@ -38,5 +38,9 @@
     "ORION-CSA2-YUPK": {
         "duration": "1w",
         "memo": "なし"
+    },
+    "ORION-LG4G-MPYC": {
+        "duration": "30s",
+        "memo": "なし"
     }
 }
